@@ -61,7 +61,7 @@ This is not intended to be an exhaustive list of all Slack channels as there are
 
 
 ## <a id="your-first-few-weeks"></a> Your First Few Weeks
-##### By End of Day 1
+##### <a id="day-1"></a>  By End of Day 1
 There are a handful of key tasks which must be completed by your first day at Aptible:
 * As soon as your laptop is set up and you have access to your Aptible inbox, locate the invitation from Jamf to enroll your laptop in device management. Restart your laptop for Jamf to enable FileVault and other managed settings.
 
